@@ -1,4 +1,3 @@
-.gradle/
 .idea/
-build/
 kotlin-inventory-sample-app.iml
+/target/
